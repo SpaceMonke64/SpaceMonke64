@@ -1,6 +1,6 @@
 - 👋 Hi, I’m SpaceWD
 - 👀 I’m interested in: Club Penguin
-- 🌱 I’m currently learning: Peace
+- 🌱 I’m currently learning: Self-taught Scratch 1.4 knowledge
 - 💞️ I’m looking to collaborate on: Nothing! I'm still an independent coder on GitHub
 - 📫 How to reach me: spacewd
 
